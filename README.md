@@ -214,51 +214,6 @@ npm run dev
 
 ---
 
-# 🎥 Animated Preview
-
-*(Add your project demo GIF here)*
-
-Example:
-
-```
-![FinPilot Demo](demo.gif)
-```
-
-How to create demo GIF:
-
-1. Run your project
-2. Record screen using **ScreenToGif** or **OBS**
-3. Export as **GIF**
-4. Upload to GitHub repo
-
-Then show it like:
-
-```
-![App Demo](screenshots/finpilot-demo.gif)
-```
-
----
-
-# 📸 Screenshots
-
-Add screenshots like this:
-
-```
-screenshots/dashboard.png
-screenshots/transactions.png
-screenshots/analytics.png
-screenshots/ai-assistant.png
-```
-
-Example display:
-
-```
-![Dashboard](screenshots/dashboard.png)
-![Analytics](screenshots/analytics.png)
-```
-
----
-
 # 🎯 Future Improvements
 
 * AI financial goal planner
